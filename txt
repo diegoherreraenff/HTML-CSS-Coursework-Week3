@@ -1,0 +1,30 @@
+<div class="container">
+  <div class="row">
+    <div class="col">col</div>
+    <div class="col">col</div>
+    <div class="w-100"></div>
+    <div class="col">col</div>
+    <div class="col">col</div>
+  </div>
+</div>
+
+
+
+
+<div class="row container">
+            <div class="col">
+                <img src="./img/drip_cake1-680x538.jpg" class="rounded float-start" alt="..." width="200px"
+                    height="auto" style="margin: 1em 1em;">
+                <img src="./img/drip_cake1-680x538.jpg" class="rounded float-end" alt="..." width="200px" height="auto"
+                    style="margin: 1em 1em;>
+            </div>
+        </div>
+
+        <div class=" row container">
+                <div class="col">
+                    <img src="./img/drip_cake1-680x538.jpg" class="rounded float-start" alt="..." width="200px"
+                        height="auto" style="margin: 1em 1em;">
+                    <img src="./img/drip_cake1-680x538.jpg" class="rounded float-end" alt="..." width="200px"
+                        height="auto" style="margin: 1em 1em;">
+                </div>
+            </div>

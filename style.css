@@ -1,1 +1,73 @@
 /*  Add your styling here */
+
+@media (min-width: 992px) 
+{
+    .container,
+    .container-lg,
+    .container-md,
+    .container-sm
+     {
+        max-width: 960px;
+        display: flex;
+        flex-direction: row-reverse;
+        
+    }
+
+    .h1-p h1{
+        font-family: ;
+    }
+
+    .h1-p {
+        display: flex;
+        flex-direction: column;
+        height: 2em;
+        width: auto;
+        text-align:end ;
+    }
+
+}
+
+
+body {
+    font-family: 'Nunito', sans-serif;
+
+}
+
+
+
+.navbar-light .navbar-toggler {
+    flex-direction: row-reverse;
+}
+
+.nav-link {
+    display: flex;
+    flex-direction: row-reverse;
+}
+
+.header {
+    background-color: white;
+}
+
+.header .nav h2 {
+    flex-direction: row;
+
+}
+
+.navbar {
+    justify-content: flex-end;
+}
+
+.footer .div-footer .join-ul li{
+    list-style: none;
+    display: flex;
+    flex-direction: row;
+}
+.footer .div-footer .join-ul{
+    display: flex;
+    
+}
+}
+.footer .div-footer {
+    display: flex;
+    justify-content: center;
+}
